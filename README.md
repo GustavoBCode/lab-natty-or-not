@@ -15,5 +15,5 @@ Este e-book mergulha na fascinante interseção entre Ciência de Dados e Inteli
 
 Confira o e-book completo em: https://ia-cientista-de-dados-2azppak.gamma.site
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 A experiência de criação deste e-book utilizando IA foi incrível, proporcionando uma visão ampla de como essas ferramentas podem acelerar nosso desenvolvimento e ampliar nossas possibilidades criativas.
